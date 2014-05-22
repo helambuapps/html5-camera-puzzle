@@ -15,7 +15,6 @@ and of course a web cam and a mouse + a player (lol)
 -	Browse the folder where you downloaded and extracted or cloned
 -	It should appear on the Extension list and the Apps list
 -	Goto chrome://apps/ and have fun
-
 -	If you can manage to pin it on the Taskbar or somewhere, you can directly launch the app without having to open the browser.
 
 ##How to play
